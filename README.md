@@ -32,7 +32,7 @@ Steam Simple est un launcher personnalisé pour vos jeux Steam, offrant une inte
 
 ## 📝 Licence
 
-Steam Simple est sous licence **MIT**. Voir le fichier [`LICENSE`](LICENSE) pour plus d'informations.
+Steam Simple est sous licence **GPL-3.0 license**. Voir le fichier [`LICENSE`](LICENSE) pour plus d'informations.
 
 ## 💬 Contact
 
