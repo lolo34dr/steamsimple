@@ -36,8 +36,8 @@ Steam Simple est sous licence **GPL-3.0 license**. Voir le fichier [`LICENSE`](L
 
 ## 💬 Contact
 
-📌 **GitHub** : [@tonrepo](https://github.com/lolo34dr)
-📌 **Instagram** : [@tonprofil](https://instagram.com/0_cyz_0)
+📌 **GitHub** : [@lolo34dr](https://github.com/lolo34dr)
+📌 **Instagram** : [@0_cyz_0](https://instagram.com/0_cyz_0)
 
 ---
 
